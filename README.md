@@ -113,6 +113,16 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ***% Error relativo porcentual***
 
+**EJERCICIO 1**
+
+- Literal A
+
+- Literal B
+
+- Literal C
+
+- Literal D
+
 ## Video
 
 ## Conclusiones
