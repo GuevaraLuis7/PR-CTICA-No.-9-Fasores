@@ -89,6 +89,26 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.*
 
+EJERCICIO 1
+
+*1. Transforme a su forma polar:*
+
+*a. 2+3j*
+
+<img src="imagenes/ejer1_a_1.jpg">
+
+*b. -8+6.2j*
+
+<img src="imagenes/ejer1_b_1.jpg">
+
+*c. 4.3-2.8j*
+
+<img src="imagenes/ejer1_c_1.jpg">
+
+*d. -6-3.2j*
+
+<img src="imagenes/ejer1_d_1.jpg">
+
 ## Resultados
 
 ***% Error relativo porcentual***
