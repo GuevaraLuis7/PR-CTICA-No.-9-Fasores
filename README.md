@@ -55,11 +55,19 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *a. 2+3j*
 
+<img src="imagenes/ejer1_a.jpg">
+
 *b. -8+6.2j*
+
+<img src="imagenes/ejer1_b.jpg">
 
 *c. 4.3-2.8j*
 
+<img src="imagenes/ejer1_c.jpg">
+
 *d. -6-3.2j*
+
+<img src="imagenes/ejer1_d.jpg">
 
 *2. Transforme a su forma rectangular:*
 
