@@ -89,7 +89,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.*
 
-EJERCICIO 1
+**EJERCICIO 1**
 
 *1. Transforme a su forma polar:*
 
