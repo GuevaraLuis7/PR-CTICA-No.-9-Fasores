@@ -49,7 +49,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 **Resolver los siguientes ejercicios:**
 
-*Transforme a su forma polar:*
+*1. Transforme a su forma polar:*
 
 *a. 2+3j*
 
@@ -59,7 +59,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *d. -6-3.2j*
 
-*Transforme a su forma rectangular:*
+*2. Transforme a su forma rectangular:*
 
 *a. 36∠-10°*
 
@@ -69,13 +69,15 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *d. 45∠-117.9°*
 
-*Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
+*3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
 
-a. (10+3j/2j)-(7+2j)(3∠-115°)
+*a. (10+3j/2j)-(7+2j)(3∠-115°)*
 
-b. 6.8∠125.3°+(4.5∠-11.5°)/(7.6-1.2j)
+*b. 6.8∠125.3°+(4.5∠-11.5°)/(7.6-1.2j)*
 
-c. (34+28.5j)/(4∠-20.8°)-51.2∠-215°
+*c. (34+28.5j)/(4∠-20.8°)-51.2∠-215°*
+
+*4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.*
 
 ## Resultados
 
