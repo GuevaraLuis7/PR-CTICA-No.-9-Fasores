@@ -117,11 +117,19 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 - Literal A
 
+<img src="imagenes/error_a1.jpg">
+
 - Literal B
+
+<img src="imagenes/error_b1.jpg">
 
 - Literal C
 
+<img src="imagenes/error_c1.jpg">
+
 - Literal D
+
+<img src="imagenes/error_d1.jpg">
 
 ## Video
 
