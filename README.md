@@ -79,6 +79,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 *d. 45∠-117.9°*
 
+<img src="imagenes/ejer2_d.jpg">
+
 *3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
 
 *a. (10+3j/2j)-(7+2j)(3∠-115°)*
@@ -86,6 +88,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 *b. 6.8∠125.3°+(4.5∠-11.5°)/(7.6-1.2j)*
 
 *c. (34+28.5j)/(4∠-20.8°)-51.2∠-215°*
+
+<img src="imagenes/ejer3_c.jpg">
 
 *4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.*
 
@@ -109,6 +113,34 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 <img src="imagenes/ejer1_d_1.jpg">
 
+**EJERCICIO 2**
+
+*2. Transforme a su forma rectangular:*
+
+*a. 36∠-10°*
+
+*b. 28.7∠135°*
+
+*c.11.2∠28°*
+
+*d. 45∠-117.9°*
+
+<img src="imagenes/ejer2_d_1.jpg">
+
+**EJERCICIO 3**
+
+*3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.*
+
+*a. (10+3j/2j)-(7+2j)(3∠-115°)*
+
+*b. 6.8∠125.3°+(4.5∠-11.5°)/(7.6-1.2j)*
+
+*c. (34+28.5j)/(4∠-20.8°)-51.2∠-215°*
+
+<img src="imagenes/ejer3_c_1.jpg">
+
+<img src="imagenes/ejer3_c_2.jpg">
+
 ## Resultados
 
 ***% Error relativo porcentual***
@@ -130,6 +162,28 @@ GUEVARA CARVAJAL LUIS EDUARDO
 - Literal D
 
 <img src="imagenes/error_d1.jpg">
+
+**EJERCICIO 2**
+
+- Literal A
+
+- Literal B
+
+- Literal C
+
+- Literal D
+
+<img src="imagenes/error_d2.jpg">
+
+**EJERCICIO 3**
+
+- Literal A
+
+- Literal B
+
+- Literal C
+- 
+<img src="imagenes/error_c3.jpg">
 
 ## Video
 
