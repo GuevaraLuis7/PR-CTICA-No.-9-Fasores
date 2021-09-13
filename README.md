@@ -182,7 +182,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 - Literal B
 
 - Literal C
-- 
+
 <img src="imagenes/error_c3.jpg">
 
 ## Video
