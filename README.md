@@ -141,50 +141,6 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 <img src="imagenes/ejer3_c_2.jpg">
 
-## Resultados
-
-***% Error relativo porcentual***
-
-**EJERCICIO 1**
-
-- Literal A
-
-<img src="imagenes/error_a1.jpg">
-
-- Literal B
-
-<img src="imagenes/error_b1.jpg">
-
-- Literal C
-
-<img src="imagenes/error_c1.jpg">
-
-- Literal D
-
-<img src="imagenes/error_d1.jpg">
-
-**EJERCICIO 2**
-
-- Literal A
-
-- Literal B
-
-- Literal C
-
-- Literal D
-
-<img src="imagenes/error_d2.jpg">
-
-**EJERCICIO 3**
-
-- Literal A
-
-- Literal B
-
-- Literal C
-
-<img src="imagenes/error_c3.jpg">
-
 ## Video
 
 ## Conclusiones
