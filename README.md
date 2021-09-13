@@ -189,6 +189,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ## Conclusiones
 
+- Esta práctica fue de gran ayuda puesto que mejoramos el uso de operaciones basicas en números complejos y con ello nos ayudo a comprender el uso de los números complejos en fasores y como funcionan en los circuitos.
+
 ## Bibliografía 
 
 
