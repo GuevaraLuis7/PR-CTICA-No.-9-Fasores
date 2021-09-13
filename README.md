@@ -193,6 +193,12 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ## Bibliografía 
 
+Obando, P. L. (Enero de 2011). Educational Content Writer. Obtenido de Educational Content Writer: https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
 
+Copywriting, Content Marketing, Tesis, Monografías, Paper Académicos, White Papers (Español – Inglés)
+
+Escuela de Ingeniería Electrónica de la Universidad Simón Bolívar, USB Valle de Sartenejas.
+
+Escuela de Ingeniería Eléctrica de la Universidad Central de Venezuela, UCV CCs
 
 
