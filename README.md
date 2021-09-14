@@ -169,6 +169,8 @@ https://youtu.be/GJ8BWYfLh2k
 
 - Esta práctica fue de gran ayuda puesto que mejoramos el uso de operaciones basicas en números complejos y con ello nos ayudo a comprender el uso de los números complejos en fasores y como funcionan en los circuitos.
 
+- Gracias a esta práctica podemos operar con fasores tanto en coordenadas polares y rectangulares y con ello realizar una gran variedad de operaciones como sumas, restas, multiplicaciones y diviciones.
+
 ## Bibliografía 
 
 Obando, P. L. (Enero de 2011). Educational Content Writer. Obtenido de Educational Content Writer: https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
